@@ -1,4 +1,4 @@
-# Human Communication as Narration: Toward a Philosophy ofReason, Value, and Action  🔥
+# Human Communication as Narration: Toward a Philosophy of Reason, Value, and Action  🔥
 
 
 by Walter R. Hsher
