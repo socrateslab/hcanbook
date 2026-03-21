@@ -1,3 +1,14 @@
+# 结论
+
+佩雷尔曼的宗旨与我的研究目标本质上是一致的：构建一套关于理性、价值与行动的理论，为日常生活、尤其是人类传播赋予意义与重要性。我赞同佩雷尔曼关于必须承认并接纳多元主义的观点。但我会将**爱**置于生命最高德性与动机的位置，取代正义在价值层级中的顶峰地位。爱为存在提供根基，也是人类一切决策与行动应遵循的根本动机。佩雷尔曼很可能会认同这一观点，而且他完全可以合理地主张：正义是爱的一种形式，公民之爱是尊重个体尊严与价值、并以规则保障其社会福祉的方式。
+
+在上述阐述之后，我现在可以回应卡罗尔·阿诺德提出的问题：“佩雷尔曼对论证‘价值’的评判标准，是否已是我们所能拥有的最坚实标准？”我认为并非如此，理由有二。
+第一，尽管我认同可以通过认同论证的受众品质来有效衡量论证，但我认为这一标准所隐含的论证概念既过于宽泛，又过于狭隘。其宽泛之处在于，论证被视作一种宏观结构、一张“网络”，而非推理链条；关注焦点是整体论证的效力，而非单个好理由实例的价值。事实上，成熟的受众可能会对普遍前提、联结与解离技巧保持批判态度，而不够成熟的受众则往往只对普遍前提做出反应。换言之，佩雷尔曼在探讨受众反应与受众评估时，并未将论证视为他在《新修辞学》中娴熟展现的那种具体推理或蕴含形式。为了同时关注宏观论证、具体推理与蕴含形式，以及人类传播中其他特定理性模式，我提议用**好理由**这一概念取代佩雷尔曼偏爱的“论证”一词。我对好理由的定义是：在一切可被视为修辞性的传播形式中，为接受或认同其所倡导的观点提供依据的那些要素。基于这一视角，我们可以分离并评估人类各类传播的独立单元，同时借助融贯性原则对宏观结构进行评判。
+
+按照我刚才提出的思路，有助于解决我在佩雷尔曼新修辞学中发现的第二个问题。佩雷尔曼将人预设为**论辩者**，而我则用另一预设取代之：人是**叙事者**，其传播方式是表达被视为好理由的内容，而不论形式如何——无论传播是专业性的还是公共性的、文学性的还是政治性的、学术性的还是社交性的。将人视为叙事者与故事评判者，既能在人类传播理论中几乎囊括佩雷尔曼新修辞学的全部内容，同时又能提出比佩雷尔曼理论本身更具体的评判标准，以及更广阔的非形式逻辑视野。我们不再需要诉诸特权受众作为理性的衡量尺度。理性植根于生活的叙事结构，以及人们在亲历与讲述故事时识别融贯性与逼真性的自然能力。正如我此前所强调的，这一叙事理性概念依然可以运用因果、迹象、类比、分类、例证等推理检验方式——这些都是佩雷尔曼及其他学者充分阐释与例证的典型模式。
+
+这一理论框架同样会纳入我在第五章提出的价值与价值评判检验标准，这些标准与佩雷尔曼对价值在各类论证中所起作用的强调完全不冲突。不过，我会避免采用佩雷尔曼对**信服**与**说服**的区分。我认为更准确的说法是：价值决定理由的说服效力，而价值本身也可以构成理由。因此，我的叙事理性概念是对佩雷尔曼论证能力概念的拓展与深化：它补充了融贯性与逼真性这一套逻辑原则，并增添了评估好理由的精确标准。然而，这些补充内容与佩雷尔曼那个更为宏观但依然有效的观点——**论证的价值等同于认同它的受众的价值**——并不存在任何矛盾。
+
 ### **CONCLUSION**
 
 Perelman’s aims and my objective are essentially the same: to formulate a theory of reason, value, and action that gives meaning and significance to everyday life and to human communication in particular. I agree with Perelman’s view on the necessity of recognizing and accepting pluralism. However, I would place love as the highest virtue or motivation in life, displacing justice from the pinnacle in the hierarchy of values. Love provides the ground of being and is the motive that should inform all others in human decision making and action. Perelman may well have agreed with this idea, and he could have then argued, rightly I think, that justice is a form of love, that civic love is a way of honoring the dignity and worth of individuals and ensuring by rule their well-being in society.
