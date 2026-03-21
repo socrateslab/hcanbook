@@ -1,7 +1,6 @@
-# Human Communication as Narration: Toward a Philosophy of Reason, Value, and Action  🔥
+# 作为叙事的人类传播：走向理性、价值与行动的哲学
 
-by Walter R. Hsher
-
+- 作者：沃尔特・R・费舍尔
 
 ---
 
