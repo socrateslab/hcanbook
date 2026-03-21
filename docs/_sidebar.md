@@ -3,7 +3,7 @@
 
    - [Foreword](/md/book/FOREWORD.md)
    - [Preface](/md/book/PREFACE.md)
-   - [Acknowledgements](/md/book/ACLEDGMENTS.md)
+   - [Acknowledgements](/md/book/ACKNOWLEDGMENTS.md)
    - Part I The Historical Exigence
    
    	- [Chapter 1. In the Beginning](/md/book/chapter-1-1.md)
