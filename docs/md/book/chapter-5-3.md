@@ -1,0 +1,22 @@
+### GOOD REASONS
+
+The second problem is defining “good reasons.” The nature of this problem can be seen clearly if we examine the concepts of good reasons offered by Wallace and Booth. My complaint about the concept as these authors present it is that their conceptions are too narrowly constructed. How this is so will be demonstrated. My intent is not to contradict them, but to expand on what they say.
+
+Evaluation inherently involves tautology. For example, if we say a good essay is logical, it follows that an essay cannot be good and not logical. Therefore, my concern is not to avoid circularity; it is to increase the diameter of the circle that contains good reasons.⁵ The circle can be expanded by broadening the concept of good reasons to allow more instances of reasons and values to find their place within it. Then clear criteria will be needed for their assessment. The result should be a more useful circle.
+
+Wallace took the position that “One could do worse than characterize rhetoric as the art of finding and effectively presenting good reasons.”⁶ “A good reason,” he wrote, “is a statement offered in support of an ought proposition or of a value-judgment.”⁷ And he defined “good reasons” as “a number of statements, consistent with each other, in support of an ought proposition or of a value-judgment.” In other words, a reason is good if it is tied to a value, and a value is reasonable if it is tied to a reason. Given this view, there is no way to distinguish the merits of competing good reasons, and the view ignores the possibility that values may be reasons and that reasons affirm values in and of themselves.
+
+In *Modern Dogma and the Rhetoric of Assent*, Booth writes that he will “be pursuing . . the art of discovering good reasons, finding what really warrants assent because any reasonable person ought to be persuaded by what has been said.”⁸ I think Booth’s inquiry is learned and useful, but I cannot find in his book any clearer concept of good reasons than what is suggested in this statement. Booth seems to be saying that good reasons are what good people affirm and that reasonable people know what is good. This is, of course, a circular view, like that of Wallace, which makes it impossible to judge between the good reasons of conflicting good persons. An advantage of Booth’s approach is that one can contemplate the possibility of finding good reasons in art and literature as well as in the usual forms of rhetorical communication. But how to assess them remains the difficulty. It is not very helpful to know that “A satisfactory account of good reasoning in any one domain of life would necessarily require a sizable book,” or that “The repertory of good reasons could never be constructed by any one person, since it would include all good discourse about the grounds of valid discourse in any subject.”⁹
+
+To remedy the difficulties in the views of Wallace and Booth, I propose that good reasons be conceived as those elements that provide warrants for accepting or adhering to the advice fostered by any form of communication that can be considered rhetorical. By “warrant,” I mean that which authorizes, sanctions, or justifies belief, attitude, or action—these being the usual forms of rhetorical advice. The term “good reasons,” I should stress, does not imply that every element of rhetorical transaction that warrants a belief, attitude, or action—that any “good reason”—is as good as any other. It only signifies that whatever is taken as a basis for adopting a rhetorical message is inextricably bound to a value—to a conception of the good. Needless to say, good reasons are not necessarily effective, persuasive reasons.
+
+Given this conception of good reasons, it seems to me that a person can isolate and begin to weigh them, to compare and contrast them. The concept requires a rethinking of argumentative forms, however, for they must now include all modes of communication, not just those that have clear-cut inferential structures. The concept can then open a way to get at the rhetorical components of literature, film, and drama. Indeed, I think that a next step in pursuing the nature and functions of good reasons is to identify the modes of warrant in diverse kinds of communication, the ways, for instance, that narration, character, action, scene, and music induce audiences to think, feel, or behave as an author intends.
+
+---
+
+✅ 现在引用序号顺序为：⁵ → ⁶ → ⁷ → ⁸ → ⁹
+最后一句保持无序号，符合原文。
+
+如果你希望，我可以帮你把 **PART III 前两节的所有引用序号** 从 **3 开始** 做一次完整的校对和顺序整理，方便直接用于论文稿件。
+
+你希望我做吗？
