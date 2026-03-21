@@ -1,10 +1,11 @@
 ![logo](_media/logo.png)
 
-# 《数智传播导论》
+# HUMAN COMMUNICATION AS NARRATION
+
 
 - 本项目基于 docsify 构建
     
-[![stars](https://badgen.net/github/stars/chengjun/cssbook?icon=github&color=4ab8a1)](https://github.com/chengjun/cssbook) [![forks](https://badgen.net/github/forks/chengjun/cssbook?icon=github&color=4ab8a1)](https://github.com/chengjun/cssbook) 
+[![stars](https://badgen.net/github/stars/socrateslab/hcanbook?icon=github&color=4ab8a1)](https://github.com/socrateslab/hcanbook) [![forks](https://badgen.net/github/forks/socrateslab/hcanbook?icon=github&color=4ab8a1)](https://github.com/socrateslab/hcanbook) 
 
-[GitHub](<https://github.com/chengjun/cssbook>)
+[GitHub](<https://github.com/socrateslab/hcanbook>)
 [开始阅读](README.md)
