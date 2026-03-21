@@ -1,3 +1,11 @@
+# 与其他理论的关联
+在探讨叙事范式如何与社会科学及人文学科理论相联系时，我可能会让人误以为，在这些不同知识领域研究者的理论预设与研究方法之间，可以划出绝对的界限。因此，我希望在一开始就强调：聚焦叙事性的会话分析研究显然是**跨学科**的，¹并且存在一个“**第三研究领域**”。²
+
+这一领域名为“**人文科学**”，其研究者采用的研究方法包括实证法、历史法、语言学方法、解释学方法、常人方法论以及哲学研究法等。在我看来，将他们联结在一起的，是他们对理查德·伯恩斯坦所谓的“**笛卡尔式焦虑**”的拒斥或抵制：
+> 笛卡尔以一种令人不寒而栗的清晰性，以看似不可避免的必然性，将我们引向一个宏大而诱人的**非此即彼**：要么为我们的存在找到某种支撑、为我们的知识确立固定根基，要么我们就无法摆脱笼罩着我们的黑暗力量——陷入疯狂、智识与道德的混乱。³
+
+叙事范式为人文科学研究者提供了一个交汇场域，无论他们各自的研究方向如何，都能够且确实在此相遇。
+
 ### **RELATIONSHIPS TO OTHER THEORIES**
 
 In discussing how the narrative paradigm relates to social-scientific and humanistic theories, I risk suggesting that absolute boundaries can be drawn between the assumptions and methods of those who identify themselves in one or another of these intellectual realms. I wish, therefore, to emphasize at the outset that work in conversational analysis focusing on narrativity clearly crosses disciplines,¹ and that there is a “third world of inquiry.”² Its title is “human sciences,” and its practitioners include researchers who employ empirical, historical, linguistic, hermeneutical, ethnomethodological, and philosophical methods of investigation. What unites them, I believe, is their rejection of or resistance to what Richard Bernstein calls the “Cartesian Anxiety”: “With a chilling clarity Descartes leads us with an apparent and ineluctable necessity to a grand and seductive Either/Or. Either there is some support for our being, a fixed foundation for our knowledge, or we cannot escape the forces of darkness that envelop us with madness, with intellectual and moral chaos.”³ The narrative paradigm provides a ground where human scientists can and do meet, however they pursue their individual projects.
