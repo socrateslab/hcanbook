@@ -1,23 +1,66 @@
 - [:octocat: 首页](/README)
 - :memo: 目录
-   - 第1章：基础
-   
-       - [第1节：象数体系的原典基石](/md/idea-plugin/chapter1.md)
-       - [第2节：统摄卦义的哲学阐释](/md/idea-plugin/chapter2.md)
-   
-   - 第2章：纲目
-   
-       - [第3节：象理互通的双层诠释](/md/idea-plugin/chapter3.md)
-       - [第4节：穷神知化的理论总纲](/md/idea-plugin/chapter4.md)
-       - [第5节：乾坤两卦的专论精义](/md/idea-plugin/chapter5.md)
-   
-   - 第3章：脉络
-   
-       - [第6节：象数体系的逻辑建构](/md/idea-plugin/chapter6.md)
-       - [第7节：卦序排列的哲学脉络](/md/idea-plugin/chapter7.md)
-       - [第8节：卦象关系的辩证解析](/md/idea-plugin/chapter8.md)
-   
-   - 第4章：延伸
-       
-       - [第9节：象数哲学的谶纬化延伸](/md/idea-plugin/chapter9.md)
-       - [第10节：阐释传统的现代重构](/md/idea-plugin/chapter10.md)
+   - [Foreword](/md/book/FOREWORD.md）
+   - [Preface](/md/book/PREFACE.md）
+   - [Acknowledgements](/md/book/ACLEDGMENTS.md）
+   - Part I The Historical Exigence
+   	- [Chapter 1. In the Beginning](/md/book/chapter-1-1.md）
+		- [From Philosophy to Technical Discourse](/md/book/chapter-1-2.md）
+		- [Voices on Behalf of Poetic](/md/book/chapter-1-3.md）
+		- [Voices on Behalf of Rhetoric](/md/book/chapter-1-4.md）
+		- [Conclusion](/md/book/chapter-1-5.md）
+	- [Chapter 2. The Connection with Logic](/md/book/chapter-2-1.md）
+		- [Dialogue, Dialectic, and Logic](/md/book/chapter-2-2.md）
+		- [Aristotle: The Beginnings of Technical and Rhetorical Logic](/md/book/chapter-2-3.md）
+		- [Technical Logic: Handmaiden of Learned Discourse](/md/book/chapter-2-4.md）
+		- [Rhetorical Logic: Handmaiden of Public Discourse](/md/book/chapter-2-5.md）
+		- [From Geometry and Mathematics to Language and Jurisprudence](/md/book/chapter-2-6.md）
+		- [Narrative Rationality as a Rhetorical Logic](/md/book/chapter-2-7.md）
+		- [Conclusion](/md/book/chapter-2-8.md）
+   - Part II The Narrative Paradigm and Related Theories
+	- [Chapter 3. Narration as a Paradigm of Human Communication](/md/book/chapter-3-1.md）
+		- [The Rational-World Paradigm](/md/book/chapter-3-2.md）
+		- [The Narrative Paradigm](/md/book/chapter-3-3.md）
+		- [A Case: Public Moral Argument](/md/book/chapter-3-4.md）
+		- [Conclusion](/md/book/chapter-3-5.md）
+	- [Chapter 4. An Elaboration](/md/book/chapter-4-1.md）
+		- [Relationships to Other Theories](/md/book/chapter-4-2.md）
+		- [Social-Scientific Theories and the Narrative Paradigm](/md/book/chapter-4-3.md）
+		- [Humanistic Theories and the Narrative Paradigm](/md/book/chapter-4-4.md）
+		- [Conclusion](/md/book/chapter-4-5.md）
+   - Part III Narrative Rationality, Good Reasons, and Audiences
+	- [Chapter 5. Assessing Narrative Fidelity: The Logic of Good Reasons](/md/book/chapter-5-1.md）
+		- [The Meaning of “Logic”](/md/book/chapter-5-2.md）
+		- [Good Reasons](/md/book/chapter-5-3.md）
+		- [The Logic of Good Reasons](/md/book/chapter-5-4.md）
+		- [Criterial Analysis](/md/book/chapter-5-5.md）
+		- [Hierarchies of Values](/md/book/chapter-5-6.md）
+		- [Rationality and Rhetorical Competence](/md/book/chapter-5-7.md）
+		- [Conclusion](/md/book/chapter-5-8.md）
+	- [Chapter 6. Narrative Rationality and Qualities ofAudiences](/md/book/chapter-6-1.md）
+		- [Philosophical, Political, and Personal Characteristics of Audiences](/md/book/chapter-6-2.md）
+		- [Justice: The Motivational Characteristic](/md/book/chapter-6-3.md）
+		- [Critical Rationalism: The Competence Characteristic](/md/book/chapter-6-4.md）
+		- [Concepts of Audiences Reconsidered](/md/book/chapter-6-5.md）
+		- [Conclusion](/md/book/chapter-6-6.md）
+   - Part IV Applications
+	- [Chapter 7. Narrativity and Politics: The Case of Ronald Reagan](/md/book/chapter-7-1.md）
+		- [Reagan’s Rhetoric](/md/book/chapter-7-2.md）
+		- [Reagan’s Story](/md/book/chapter-7-3.md）
+		- [Reagan’s Character](/md/book/chapter-7-4.md）
+		- [Reagan’s Implied Audience](/md/book/chapter-7-5.md）
+		- [Conclusion](/md/book/chapter-7-6.md）
+	- [Chapter 8. Argument in Drama and Literature](/md/book/chapter-8-1.md）
+		- [Rhetoric, Poetic, and Aesthetic Proof](/md/book/chapter-8-2.md）
+		- [Argument in Death ofa Salesman](/md/book/chapter-8-3.md）
+		- [Argument in The Great Gatsby](/md/book/chapter-8-4.md）
+		- [Conclusion](/md/book/chapter-8-5.md）
+	- [Chapter 9. Choosing between Socrates and Callicles: An Assessment ofPhilosophical Discourse](/md/book/chapter-9-1.md）
+		- [Socrates’ Story](/md/book/chapter-9-2.md）
+		- [Callicles Story](/md/book/chapter-9-3.md）
+		- [Choosing between Socrates and Callicles](/md/book/chapter-9-4.md）
+		- [Conclusion](/md/book/chapter-9-5.md）
+	- [Chapter 10. In Retrospect](/md/book/chapter-10-1.md）
+   - [Author Index](/md/book/author-index.md）
+   - [Subject Index](/md/book/Subject-Index.md）
+   - [Unedited Book](/md/book/Unedited-Book.md）
