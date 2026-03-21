@@ -1,3 +1,14 @@
+# 结语
+本书的分析不仅充分展示了叙事范式的应用及其与其他阐释框架的差异，从中还可进一步审视本文解读对于理解柏拉图修辞观的重要意义。无论修辞术是否为《高尔吉亚篇》的“真正主题”，卡利克勒斯所代表的生活方式都必须依靠修辞术才能成立，而苏格拉底所倡导的生活则离不开辩证法与柏拉图的形而上学立场。毋庸置疑，柏拉图对修辞术的忧虑贯穿始终：修辞术扭曲教育、败坏政治，既不配称为哲学，也不足以作为一种生活方式。本文的解读支持如下结论：柏拉图在《斐德若篇》中并未放弃他在《高尔吉亚篇》中所持的修辞观。所谓“柏拉图反对的仅仅是高尔吉亚、波卢斯与卡利克勒斯在对话中无力辩护的某种特定修辞观，且很可能只是反对其所处时代主流智者与修辞学家所持观点”的说法并不成立。借苏格拉底这一人物所展现的柏拉图立场，本质上是**本体论层面**的主张；若非抛弃其形而上学信念，他不可能改变这一观点。
+
+我们有理由追问，如本章所呈现的这种叙事性解读，是否仅仅是对作者概念体系局部内容的零散评述。要判断这一点，可将对同一作者某一叙事的分析结论与另一叙事相互印证。就本文而言，我们可通过考察柏拉图在《斐德若篇》中对修辞术的论述完成这一检验。《斐德若篇》结尾所勾勒的话语“技艺”，并非关乎偶然事务的技巧，而是一门与医学比肩的“科学”。它能使修辞学家成为医治城邦灵魂的医师。多兹指出：“那些认为《斐德若篇》‘修正’了《高尔吉亚篇》中毫不妥协的观点（波伦茨，第343页），或是代表‘柏拉图修辞观发展的新阶段’（耶格尔，《教化》卷三，第185页）的学者，似乎都忽略了（《高尔吉亚篇》）503a这一段落。两篇对话在情感基调上差异极大……但二者均暗含一个结论：唯一真正的修辞学家正是苏格拉底本人。”
+
+在503a处，苏格拉底如此论及修辞术：
+
+> ……即便此事存在两面，我想其中一面不过是谄媚与可耻的哗众取宠，另一面则是高尚的事业——竭尽所能完善公民的灵魂，力求始终说出至善之言，无论听众是否乐于接受。但你本人从未见过此种修辞，倘若你能举出任何一位此类演说家，为何不立刻告诉我他的名字？
+
+在《高尔吉亚篇》中，苏格拉底明确拒斥卡利克勒斯的人生叙事；在《斐德若篇》中，他则拒斥这种生活方式的核心工具——修辞术。对美好生活的这一系列看法具有内在一致性与融贯性。柏拉图所构想的私人与公共层面的美好生活，绝不会认可一种仅关乎或然性、实用性话语的修辞技艺。
+
 ### **CONCLUSION**
 
 Beyond its adequacy in demonstrating the narrative paradigm in use and how it differs from other interpretive schemes, one may consider the importance of my interpretations relative to Plato’s stance toward rhetoric. Whether rhetoric is the “real theme” of the *Gorgias* or not, the life represented by Callicles requires rhetoric for its being, and the life urged by Socrates necessitates dialectic and Plato’s metaphysical position. There can be no doubt that Plato’s concern about rhetoric was pervasive: it distorted education, corrupted politics, and failed as philosophy and a way of life. The interpretation presented here supports the conclusion that Plato did not relent in the *Phaedrus* from the view of rhetoric he took in the *Gorgias*. It is not the case that “Plato opposed only a particular view of rhetoric unsuccessfully defended in the dialogue by Gorgias, Polus, and Callicles, and probably defended by leading Sophists and rhetoricians of Plato’s time.” [17] Plato’s position, as brought to life in the character of Socrates, is an ontological one. It is not a view he could have changed without rejecting his metaphysical beliefs.
