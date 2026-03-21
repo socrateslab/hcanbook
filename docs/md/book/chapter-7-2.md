@@ -1,3 +1,15 @@
+# 里根的修辞
+
+毋庸置疑，如果采用**理性世界范式**来评判，里根的总统演说并不符合修辞标准。而且，若以**忠于事实、论证形式严谨、相关性**这些叙事范式的标准来衡量，他的演说同样无法达标。那么，我们该如何解释里根总统无可争议的声望与说服上的成功？
+
+政治评论人士给出的答案通常是：里根的修辞成就是**审美层面**的——是表演、讲故事、个人气场与表达呈现的胜利。这一观点有一定道理，但同样适用于其他总统，尤其是约翰·F·肯尼迪与富兰克林·D·罗斯福。他们也都是媒体大师，在聚光灯下同样展现出自信、才干与从容。出色的表现只能部分解释这一现象。我们还需要考察**里根的叙事与他的人格特质**。这些正是理性世界范式所忽视的内容，而对于理解里根乃至任何其他发言人的修辞而言，这些都至关重要。
+
+我提出的解释包含三个方面：
+第一，里根的叙事植根于美国历史，体现了**美国梦**的核心价值；
+第二，公众眼中的他的人格正是由这一背景塑造而成，使他几乎不受“理性”批判的影响；
+第三，在我们这个动荡的时代，他修辞中所塑造的英雄式隐含受众，具有几乎无可比拟的说服力。
+在展开论述时，我会将里根的叙事与人格同吉米·卡特、爱德华·肯尼迪进行比较和对照。
+
 ### **REAGAN’S RHETORIC**
 
 It almost goes without saying that Reagan’s presidential discourse fails the test of rhetoric if the rational-world paradigm is applied to it. Furthermore, it fails the tests of the narrative paradigm insofar as the tests of fidelity to fact, soundness of argumentative form, and relevance are applied. How, then, are we to account for President Reagan’s equally uncontestable popularity and success in persuading?
