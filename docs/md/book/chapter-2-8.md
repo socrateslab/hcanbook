@@ -1,5 +1,6 @@
-# CONCLUSION
-As I have shown in this chapter, technical and rhetorical logics have had a tenuous, sometimes tortured relationship. By the twentieth century, technical logic had reified reason to mathematical symbolic forms, and rhetorical logic had continued its tradition of conceiving of reason as a form of argumentative proof. I propose a concept of narrative rationality as a response to these developments, insisting that reason in human communication is more diverse in its forms than these views hold and that reason is a pervasive feature of symbolic action. The concept of narrative rationality offers systematic principles, procedures, and criteria for assessing elements of discourse that provide warrants for believing or acting in particular ways. Having indicated the context out of which the narrative paradigm and its logic emerge, I shall, in the next chapter, explain the proposal in further detail.
+# 结论
+
+正如本章所述，形式逻辑与修辞逻辑之间的关系一直十分微妙，有时甚至充满矛盾冲突。到20世纪，形式逻辑已将理性固化为数学符号形式，而修辞逻辑则延续其传统，将理性视为一种论证式证明。我提出**叙事理性**这一概念以回应上述发展，主张人类传播中的理性在表现形式上远比这些观点所认为的更为多样，并且理性是象征行为中普遍存在的特征。叙事理性概念提供了系统的原则、步骤与评判标准，用于评析话语中能够为特定信念或行动提供依据的各类要素。在阐明叙事范式及其逻辑得以产生的背景之后，我将在下一章对这一理论构想展开更为详尽的阐释。
 
 ### CONCLUSION
 
