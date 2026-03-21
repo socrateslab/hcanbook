@@ -4,11 +4,10 @@
 
 - 沃尔特·R.费希尔
 
-**Human Communication as Narration: Toward a Philosophy of Reason, Value, and Action** 
+## **Human Communication as Narration: Toward a Philosophy of Reason, Value, and Action** 
 
 by Walter R. Hsher
 
----
 
 - 本项目基于 docsify 构建
     
