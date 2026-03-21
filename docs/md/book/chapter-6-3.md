@@ -1,3 +1,28 @@
+# 正义：动机性特质
+
+在佩雷尔曼看来，多元主义确立了评判受众（及倡导者）的哲学、政治与个人标准，而**正义**则构成了评判其动机的核心特质。对正义的强调——既将其视为手段也视为目的——使佩雷尔曼的修辞理论区别于其他侧重知识、真理、理性、意识形态、行动或个人野心的人类传播理论。佩雷尔曼承认这些目标的现实性，但他运用正义概念为其赋予语境与人文内涵，使其受制于规则、合理的治理与实现。他将正义作为其修辞理论中的首要德性，一方面源于他对法学领域的专业投入，另一方面也因为“所有人——信徒与非信徒、传统主义者与革命者——都会诉诸正义，无人敢公然否定它”。他认为，正义是一种“普世价值”。²³此外，正义也是支撑佩雷尔曼司法推理模型的特定价值。
+
+受早期实证主义立场影响，佩雷尔曼最初将正义理解为一条形式化原则：**“属于同一本质范畴的存在者必须得到同等对待。”**²４但随着对这一概念的深入思考，他逐渐意识到正义是一个“模糊概念”。例如，他发现这一抽象原则对应着多种具体的正义观：
+
+- 给每个人同等之物。
+- 给每个人依其德性应得之物。
+- 给每个人依其功绩应得之物。
+- 给每个人依其需要应得之物。
+- 给每个人依其等级应得之物。
+- 给每个人依其法定权利应得之物。²５
+
+这些具体观念中蕴含着独特的价值与“特定的宇宙观”。²６他认识到，适用形式化的正义原则需要“相应标准来指明哪些范畴具有相关性，以及该范畴成员应被如何对待，而这类判断必然涉及价值抉择”。鉴于其研究目标——“为实践理性提供一种理想，即为合理行动确立规则与范式”——他不得不放弃实证主义的观点，即“不存在非逻辑任意性的价值”。²７由此，佩雷尔曼开启了最终导向新修辞学的理论探索。
+
+在对哲学文献的批判性考察无果后，佩雷尔曼转而借鉴其导师戈特洛布·弗雷格的方法：弗雷格曾通过分析数学家的推理为逻辑学带来新启发。佩雷尔曼与吕西·奥尔布莱希特-泰提卡夫人合作，展开了一项为期十年的研究，考察政治家、法官、道德学家、日常讨论者、哲学家等话语中“价值判断的现实逻辑”。在研究过程中，二人重新发现了亚里士多德在《修辞学》《论题篇》《辩谬篇》中提出的辩证推理概念，最终形成了新修辞学。如前所述，新修辞学的核心区分在于：**证明**（一种否认价值推理具有理性的逻辑）与**论证**（使此类推理具备合理性）。通过这一区分，佩雷尔曼得以将正义概念改造为一个开放的、可论辩的概念，使之适配于多元世界。
+
+这一转向使佩雷尔曼化解了柏拉图与帕斯卡尔哲学所遗留的困境：正义原则要么是“实在论的、客观的、独断的”，要么是“唯名论的、主观的、任意的”。²８佩雷尔曼提出，正义原则并非绝对，而是一种论证性建构，其适用必然包含某种具体正义观，由此得以保留最初原则——同一本质范畴者应受同等对待。但此时的正义已不再是静态概念，而是动态概念；它关乎信念、意识形态与理性。其功能在于为多元世界提供秩序与力量，为所有实践决策与行动场景提供理性且人道的行动方式。
+
+由于佩雷尔曼尤其关注司法论证，他在论述正义原则适用时自然反复提及**先例**。例如，在《法律推理》一文中他写道：
+
+> 根据社会中占主导地位的价值（对神意或人法的尊重、对衡平或公共善的追求、对个体尊严的重视以及对特定个体的尊崇），此类论证能够为特定判决提供正当的好理由。某一先例或法律对法官、法学家与公众的权威性高低，取决于立法者与法官在社会中的地位与重要性。²９
+
+这一表述及其他相关论述均表明，一切实践推理形式都以先例为标志。而我将进一步主张，若佩雷尔曼的司法模型确实能够有效解释实践推理，那么先例必然是日常推理的普遍特征。他认为：“先例在论证中具有基础性作用，论证的理性与遵守正义原则息息相关，该原则要求对相似情形予以同等对待。”³０接受这一观点，是理解佩雷尔曼“批判理性主义”概念及其附带的理性与合理性观念的关键，接下来我将转向这一部分。
+
 ### **JUSTICE: THE MOTIVATIONAL CHARACTERISTIC**
 
 According to Perelman, pluralism sets the philosophical, political, and personal characteristics by which audiences (and advocates) may be assessed, but justice establishes the motivational characteristic against which they are to be evaluated. The emphasis on justice—as means and end—distinguishes Perelman’s theory of rhetoric from other theories of human communication, which emphasize knowledge, truth, reason, ideology, action, or personal ambition. Perelman recognized the reality of those ends, but he used the concept of justice to contextualize and humanize them, to render them subject to rule and reasonable administration and realization. He made justice the overarching virtue in his theory of rhetoric because of his professional devotion to law and because “All men—religious believers and non-believers, traditionalists and revolutionaries—invoke justice, and none dare disavow it.” Justice, he held, is “a universal value.” [23] It is, moreover, the specific value that informs Perelman’s juridical model of reasoning.
