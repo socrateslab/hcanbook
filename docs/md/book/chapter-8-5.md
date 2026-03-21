@@ -1,3 +1,25 @@
+# 结论
+
+前文关于审美体验的论述中，已经提出了检验对一部戏剧或文学作品解读是否合理的步骤。这一过程包含四个考量维度：
+第一，确定作品的核心主旨，即作品所传递的整体结论。
+第二，判断对主旨的解读是否有充分依据，依据包括：(a) 叙述者的可靠性；(b) 其他人物的言语或行为；(c) 对人物、场景与事件的描写——这类描写在文学作品中仅以语言呈现，在戏剧作品中则兼具语言与非语言形式。
+第三，梳理构成故事的各类冲突的结局，观察哪一方的价值观最具影响力、最值得认同，事件是由人物自身掌控，还是受外部力量左右。至此，核心关注点在于：故事本身是否合乎情理，以及它揭示了何种“真相”。
+第四，将故事传递的这一“真相”，即其提出的一系列结论，与自身对世界的认知进行比对，判断其是否具有真实性。需要思考的问题是：(a) 该主旨是否精准描绘了我们所处的现实世界？(b) 它能否为我们的信念、态度、价值观与行为提供可靠指引？
+
+检验对戏剧或文学作品解读的这四个维度，与鉴别并验证合理依据的评判性问题之间，可以形成类比。如前文所述，戏剧与文学作品会展现人物之间、事件之间，以及人物、事件与外部力量之间饱含价值取向的冲突。由此可见，戏剧与文学的“主旨”本身也承载着价值取向。在本章中，通过《推销员之死》与《了不起的盖茨比》两部作品可以发现，物质主义的美国梦神话可能是一场悲剧性的幻象，它无法带来幸福与安宁，反而会导向自我毁灭。两部作品都重申了自我认知、自我接纳的价值，认为其高于盲从与虚假的梦想。
+
+检验作品解读的前三个维度，对应着合理依据逻辑中的评判性问题——事实性与相关性。第四个维度关乎戏剧与文学描写的真实性，以及主旨的价值，这与关于后果、一致性和超越性议题的评判性问题相契合。本书旧版作者均认为，《推销员之死》与《了不起的盖茨比》符合前三个维度所详述的审美要求。正如前文分析所示，这两部作品在审美层面是成立的。
+
+由此便引出新的问题：两部作品对人生的描绘是否真实？其核心结论是否值得人们信奉？我们不妨从自身经验出发。基于自身经历，我们认为《推销员之死》与《了不起的盖茨比》中的人物在本质上贴近现实。我们或许不曾认识威利·洛曼、盖茨比，或是布坎南夫妇那样的人，却能共情他们的性格与人际关系，发现他们的经历与我们自身，或是我们认识的其他人的经历相似。正如布罗诺夫斯基所言：“文学最动人的力量，在于让我们意识到，自己同样会被那些吞噬他人的欲望与毁灭之浪裹挟。我们同样会在内心的痛苦中，体味到所谓‘非人性’的残酷，继而明白这恰恰是最真实的人性。我们内心都潜藏着成为凶手、骗子、变态与社会渣滓的可能。”《推销员之死》与《了不起的盖茨比》刻画了这样的人性体验，且契合我们普遍认知中的人类生存境况。即便无法证实作品中所有细节的真实性，这些作品在本质上依旧是“真实”的。
+
+对于“这些作品的核心结论，是否能成为人生可靠且有益的指引？”这一问题，我们的答案是肯定的。我们之所以笃定这一判断，是因为相信：认清物质主义的美国梦可能是悲剧性幻象，明白自我认知与自我接纳的价值高于盲从未经审视的标准，有助于塑造积极的自我形象，改善自身对他人与社会的行为，并提升修辞交流的过程。这一主旨不仅在我们自身与他人的经历中得到印证，也得到了社会各界精神领袖的观点支撑。最后，我们确信：自我认知与自我接纳是幸福与安宁的前提，这些价值具有超越性。即便承载这些结论的作品新颖且富有感染力，但其传递的理念并不陌生，这恰恰体现了这些价值的超越性与现实意义。
+
+索尔·贝娄的话，总结了本书关于戏剧与文学作品中论证的核心观点：“正如R.G.柯林伍德所言，艺术家必须是一位先知，‘并非指他能预知未来之事，而是他甘愿冒着触怒观众的风险，道出他们内心深处的隐秘。’这便是艺术家存在的意义。他是群体的代言人……艺术是群体治愈心灵最严重病症——意识腐化——的良药。”《推销员之死》与《了不起的盖茨比》所给予世人的，正是这样一剂良药。
+
+文学与戏剧作品存在“论证”，这一观点并非首创。阅读19世纪经典诗歌、部分小说与戏剧的序言便会发现，情节常被称作“论证”。本文通过分析《推销员之死》与《了不起的盖茨比》，意在阐明：这类作品以可辨识的方式展开“论证”，且人们可以通过围绕连贯性与真实性提出少量问题，检验虚构作品论证的修辞价值。《推销员之死》与《了不起的盖茨比》围绕重要主旨，展开了连贯且贴合现实的论证。其论证方式是“堆叠”各类情节与话语，直接或间接地凸显核心主题。单纯用逻辑层面的问题，如直接证据的蕴含关系与充分性，根本无法解读这类叙事论证过程。然而，正如本文例证所示，叙事理性概念所提出的问题，能够揭示至少部分文学与戏剧作品的修辞结构与优势。倘若我们选取的是结构不够精巧的作品，叙事范式理论能否识别并揭示其修辞缺陷？答案是肯定的，至少部分缺陷会清晰显现：存在无关、离题的情节与话语；情节与话语虽相互关联，却支撑相互矛盾的主题；描绘的场景脱离现实、过于荒诞；人物塑造前后矛盾。当然，有人会提出，若叙事范式适用于修辞分析，理应适用于戏剧与小说。这一观点成立，但我们需要强调的是，本章所用的批评分析思路，与成功分析里根政治修辞时所用的思路完全一致。在我们看来，叙事范式的一大重要价值，在于它既能为典型的说服性散文提供有效的批评视角，也能解读结构明显为叙事性的话语。下一章的任务，便是将叙事范式应用于另一类话语——哲学辩证性话语，对其进行检验。
+
+
+
 ### **CONCLUSION**
 
 The steps by which one can test one’s interpretation of a dramatic or literary work were suggested in earlier remarks about aesthetic experience. The procedure entails four considerations. First is determining the message, the overall conclusions fostered by the work. Second is deciding whether one’s determination of message is justified by (a) the reliability of the narrator(s); (b) the words or actions of other characters; and (c) the descriptions of characters, scenes, and events—which are verbal in literature and both verbal and nonverbal in drama. Third is noting the outcomes of the various conflicts that make up the story, observing whose values seem most powerful and/or worthy, whether events are controlled by characters or by forces outside them. Up to this point, one’s primary concern is whether or not the story rings true as a story in itself and what “truth” it makes known. Fourth is weighing this “truth,” the set of conclusions advanced by the story, against one’s own perceptions of the world to determine their fidelity. The questions are: (a) Does the message accurately portray the world we live in? and (b) Does it provide a reliable guide to our beliefs, attitudes, values, actions?
