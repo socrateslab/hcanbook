@@ -1,3 +1,9 @@
+# 结论
+
+本章的难点在于解开一个悖论：尽管普遍认为里根未能通过**理性世界范式**的检验，也不符合**叙事逼真性**标准，可他为何依然大获成功？如果接受我对里根修辞的分析，这一悖论便可迎刃而解。分析表明，只有在坚持严格的理性标准是解读与评判话语的唯一合理依据时，这一悖论才会出现。分析同时证明，要完整阐释人类传播活动，必须同时考虑**融贯性原则**与**逼真性原则**。正如我们所见，里根的感召力不仅源于其出色的表达能力，更重要的是，他的叙事与美国的国家叙事高度契合，其人格具有高度统一性，其公众形象也与选民群体高度适配。而这些恰恰是理性世界范式所忽视的内容。不过我想强调的是，我无意贬低理性世界范式的评判标准，因为它们本身就是叙事理性的重要组成部分。事实上，将这些标准用于审视里根的修辞，即便不会否定其人格，也足以对他的叙事提出诸多质疑。
+
+这一分析同时表明，里根的修辞——或任何其他政治修辞——只要仍契合历史环境，只要没有出现同样具有说服力的叙事与人格对其发起挑战，并揭示其在融贯性与逼真性上的根本缺失，就会持续有效。然而，具有说服力的叙事与人格不能仅仅是颠覆性的；它们必须忠于历史、彰显文化价值、塑造更崇高的民众形象，并且以炉火纯青的技巧加以呈现。
+
 ### **CONCLUSION**
 
 The challenge of this chapter has been to resolve a paradox: How is it that Reagan succeeds when it is widely agreed that he fails the tests of the rational-world paradigm and the tests of narrative fidelity? The paradox is resolved if one accepts the analysis I have made of Reagan’s rhetoric, for it shows that the paradox arises only if one insists that strict rational criteria are the only ones that are appropriate in the interpretation and assessment of discourse. The analysis demonstrates that for a full account of human communication one must consider the principle of coherence as well as that of fidelity. Reagan’s appeal, as we have seen, derives not only from his superior performance, but also, and most important here, from the consistency of his story with the story of America, from the coherence of his character, and the compatibility of his image with that of his constituency. These are matters left unattended by the rational-world paradigm. I want to stress, however, that I do not mean to disparage the tests of the rational-world paradigm, for they are an integral part of narrative rationality. Indeed, their application to Reagan’s rhetoric casts considerable doubt about Reagan’s story, if not his character.
