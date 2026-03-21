@@ -1,3 +1,31 @@
+# 与逻辑的关联
+基于我在第一章中阐述的缘由，到了20世纪，**逻各斯**——意指真正严谨、理性的话语——已被认为主要存在于哲学话语与专业技术话语之中。修辞学与诗学则普遍被视作空洞或非理性的沟通方式。针对这一现状，我提出的应对思路是：以**叙事视角**看待人类沟通。
+
+叙事范式认为，人类天生就是讲故事的人，我们与生俱来就有能力辨别自己讲述和亲历的故事是否连贯、是否可信。我主张，我们是将生活当作一系列持续展开的叙事来体验和理解的：充满冲突、人物，以及开端、发展与结局。由此，各类沟通方式——一切形式的象征行为——都可被视为故事，视为对事物按序列做出的阐释。
+
+从这一角度来看，**所有话语都在不同程度上体现着逻各斯**。不仅哲学话语与技术话语展现逻各斯，修辞学与诗学同样如此。采纳这一视角，我们便能回归逻各斯最初的概念：在原初观念中，一切沟通行为都被认定为具有理性，只是理性的表现形式未必相同。
+
+在本章中，我将探讨对话、辩证法与逻辑的含义，并追溯多种“逻辑”在演变过程中与哲学话语、技术话语及修辞学之间关系的关键节点。首先需要明确的是，**逻辑与诗学之间并无相关的历史研究**，因为从未有人主张诗学与作为一门专业学科的逻辑相关——这类逻辑旨在提供概念、方法与标准，用以确证理性知识。不过，如果像詹巴蒂斯塔·维科那样，将逻辑的范畴拓宽至包含形而上学，那么就可以构建出“诗性逻辑”这一概念。维科写道：
+
+> 形而上学在探究万物存在的一切形式时，便是逻辑；逻辑在考量万物得以被表意的一切形式时，便是形而上学。因此，正如我们此前将诗歌视作一种诗性形而上学——在其中，神学诗人将诸多形体想象为神性实体——同样，我们现在也可将这种诗歌视作诗性逻辑，诗歌正是借此对事物进行表意。¹
+
+如我此前所言，确有学者坚持诗学能够生成知识，但包括维科在内，无人认为诗歌本身由逻辑产生，或是能够有效地用逻辑加以评判。²我目前尚无法说明，我所倡导的叙事范式如何解释审美类沟通形式的“创造”，但在后续论述中我将证明，这一范式的确能为评判此类沟通形式开辟一种逻辑，我将其称为**叙事理性**。
+
+---
+### 翻译说明
+1. **核心术语统一**
+    - *logos*：统一译为**逻各斯**（西方哲学经典固定译法）
+    - *narrative paradigm*：**叙事范式**
+    - *narrative rationality*：**叙事理性**
+    - *mythos*：延续前文译法，语境中隐含指向时统一为**叙事性/诗性内涵**
+2. **句式处理**
+    - 长句按中文学术表达习惯拆分，保留严谨性与流畅度
+    - 直接引语完整还原维科原文结构，注释标号¹²保留原文格式
+3. **学科语境适配**
+    - *technical discourse*：译为**技术话语/专业技术话语**，贴合传播学、修辞学学术用法
+    - *dialectic*：译为**辩证法**，符合哲学通用译法
+
+
 **THE CONNECTION WITH LOGIC**
 
 For reasons I have sketched in chapter 1, logos in the sense of genuinely serious, rational discourse had by the twentieth century come to be thought of as occurring primarily in philosophical and technical discourse. Rhetoric and poetic were widely thought of as vacuous or irrational modes of communication. The response to this situation that I am proposing is to view human communication narratively. The narrative paradigm proposes that human beings are inherently storytellers who have a natural capacity to recognize the coherence and fidelity of stories they tell and experience. I suggest that we experience and comprehend life as a series of ongoing narratives, as conflicts, characters, beginnings, middles, and ends. The various modes of communication—all forms of symbolic action—then may be seen as stories, interpretations of things in sequences. Viewed this way, all kinds of discourse are reflective of logos in one degree or another. Not only do philosophical and technical discourses exhibit logos, so do rhetoric and poetic. By adopting this perspective, we return to the original conception of logos. In that conception all communicative behavior was presumed to be rational, although not necessarily in the same way.
