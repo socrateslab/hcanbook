@@ -6,7 +6,7 @@
 
 ## **Human Communication as Narration: Toward a Philosophy of Reason, Value, and Action** 
 
-by Walter R. Hsher
+by Walter R. Fisher
 
 
 - 本项目使用chatgpt和gemini对ocr版本的书稿校对，得到的数字化版本后使用豆包进行翻译。最后，基于 docsify 构建。
