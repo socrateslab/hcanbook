@@ -81,6 +81,8 @@
    - [作者索引](/md/book/author-index.md)
    - [主题索引](/md/book/Subject-Index.md)
    - [未编辑书稿](/md/book/Unedited-Book.md)
+   - [后记](/md/book/afterword.md)
+
 
 
 [✏️更新内容](https://github.com/socrateslab/hcanbook/edit/main/docs/README.md)
