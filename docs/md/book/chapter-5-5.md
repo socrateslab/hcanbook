@@ -7,7 +7,7 @@
 
 图3是将好理由的逻辑适配运用于图尔敏论证模型的结果，意在说明价值进入论证的位置及其所发挥的作用——决定论证的最终结果。通过这样的呈现方式，隐含的价值得以显现，相关性、一致性、后果与超越性议题等问题也能够被提出并解答。要判断一种价值的相关性，必须了解事件的“事实”以及价值的本质与功能。¹⁷
 
-<img width="1166" height="1790" alt="image" src="https://github.com/user-attachments/assets/2391cd54-ec24-452b-9704-bb6dc720993b" />
+<img width="543" height="876" alt="image" src="https://github.com/user-attachments/assets/253c294c-a2b5-4143-bd12-cd6e3fae946f" />
 
 
 具备这样的认知，人们便能够辨别信息中的价值是否与具体案例相契合。判断支撑主张的证据是否能够证成该主张的理性判断过程，同样也能判断某种价值是否与之适配。正是依靠这类认知与思考，我才确定了图3中的相关议题。我的假设是，任何智力水平一般的人都能够做到这一点。要运用一致性、后果与超越性议题的检验标准，人们只需了解自身，以及在特定案例中自己认为专业或最具判断资格的人即可。因此，关于应当相信什么、做什么的最终判断，是通过审视“事实”、价值、自我与社会而得出的，这必然是一种主体间性的、实践性的决策。更进一步说，这是一种理性的决策。
@@ -26,7 +26,7 @@ The difference between my conception of good reasons and those of Wallace and Bo
 
 Figure 3 is an adaptation of the logic of good reasons applied within Toulmin’s model of argument. It is meant to illustrate where values enter an argument and the function they perform—to determine the argument’s outcome. With this sort of display, embedded values are revealed and the questions of relevance, consistency, consequence, and transcendent issue can be raised and answered. To determine the relevance of a value, one must know the “facts” of the matter and the nature and function of values. **[17]**
 
-<img width="1166" height="1790" alt="image" src="https://github.com/user-attachments/assets/2391cd54-ec24-452b-9704-bb6dc720993b" />
+<img width="543" height="876" alt="image" src="https://github.com/user-attachments/assets/253c294c-a2b5-4143-bd12-cd6e3fae946f" />
 
 
 With such knowledge, one should be able to discern whether the values in the message are appropriate to the case. The same act of intellection that tells one if the evidence given in support of a claim authorizes that claim also tells one whether or not a value is appropriate to it. It was by this sort of knowledge and thinking that I identified the relevant issues in Figure 3. My assumption is that anyone with even modest intelligence could perform the same feat. To apply the tests of consistency, consequence, and transcendent issue, one need only know oneself and those whom one regards as expert or best qualified to know or judge in the given case. The final judgment of what to believe or do is thus made by inspection of “facts,” values, self, and society; it is inevitably an intersubjective and pragmatic decision. What is more, it is a rational one.
