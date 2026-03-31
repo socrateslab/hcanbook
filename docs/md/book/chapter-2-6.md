@@ -6,6 +6,9 @@
 
 图尔敏与佩雷尔曼对论证的界定、其理论的适用范围，以及论证的评价标准，均具有特殊重要性。图尔敏将论证结构概括为：从**数据**出发，经由**理据**、理据的**支撑依据**、**限定条件**，最终导向**结论**。论证的结构如图2所示。⁸⁴
 
+<img width="534" height="331" alt="image" src="https://github.com/user-attachments/assets/417ce4a4-49f1-4821-b950-18c0f3bb35b3" />
+
+
 在后续著作《推理导论》中，图尔敏与其合作者理查德·里克、艾伦·贾尼克运用这一模型分析了法律、科学、艺术、管理与伦理领域的推理实践。⁸⁵他们采用的评价标准是“**合理性**”，这一标准与西塞罗所说的“可靠性”极为相近。合理性通过考察论证结构来判定，其预设是：能够区分大前提、小前提与结论的理性认知活动，同样可以用来评判任一论证的优劣。作者们认为理性具有**场域依赖性**——例如科学与艺术领域的理性各不相同——但同时主张，合理性体现在一个人参与论证的方式之中，“体现在其处理与回应支持或反对某一主张的理由的方式之中”。对论证持开放态度，是“理性论证者”的主要特征。⁸⁶
 
 佩雷尔曼的论证研究路径与图尔敏等人差异显著。核心区别在于：佩雷尔曼将**面向听众**作为其理论的基石，而非论证本身。他关注的是**论辩**——即实际展开的论证过程。由于本书第六章将对其理论展开分析，此处仅简要说明：他从实践推理结构的角度理解论证，包括准逻辑论证、联合性论证与分离性论证。⁸⁷他力图证明，这类结构广泛存在于各类旨在争取听众认同的话语之中。佩雷尔曼采用的评价标准是认同某一论证的**听众质量**；其最终检验尺度是**普遍听众**的认同——即所能构想的、最具批判理性的听众的认同。⁸⁸
@@ -22,7 +25,7 @@ Particularly important in the move in this direction are two books, Toulmin’s 
 
 Toulmin’s and Perelman’s conceptions of argument, the range of application for their conceptions, and the standards by which arguments may be assessed have special importance. Toulmin conceives argument as a movement from data, to warrant, backing for the warrant, to reservations, and to conclusion. The anatomy of argument is illustrated in Figure 2.⁸⁴
 
-<img width="728" height="454" alt="image" src="https://github.com/user-attachments/assets/7444acce-db3a-42a8-8d15-1782c7bf310d" />
+<img width="534" height="331" alt="image" src="https://github.com/user-attachments/assets/417ce4a4-49f1-4821-b950-18c0f3bb35b3" />
 
 In a later book, *An Introduction to Reasoning*, Toulmin and his colleagues, Richard Rieke and Allan Janik, use this model to examine reasoning in legal, scientific, artistic, management, and ethical disputes.⁸⁵ Their standard of assessment is “soundness,” a standard very like Cicero’s “firmness.” Soundness is determined by an inspection of an argument’s anatomy, the assumption being that the same act of intellection that would tell one what is a major premise, minor premise, and conclusion will serve as well to indicate the merits of any given argument. These authors see rationality as field-dependent — differing from, say, science to art — but they also hold that rationality is certified by the way one participates in an argument, “by the manner in which he handles and responds to the offering of reasons for or against claims.” Openness to argument is the major characteristic of “rational arguers.”⁸⁶
 
