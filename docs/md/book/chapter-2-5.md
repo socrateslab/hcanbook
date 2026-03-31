@@ -14,6 +14,9 @@
 
 《赫伦尼乌斯修辞学》亦是如此。该书不仅涵盖了《论取材》的全部内容，还进行了进一步拓展。它围绕修辞学的五大核心技艺展开——取材、布局、风格、表达与记忆，堪称一部相对完整的修辞技艺规范性手册。该书对论题的系统性阐释，可从其为议政演说与炫示演说设计的结构图式中清晰体现（见图1）。⁸⁰
 
+<img width="664" height="642" alt="image" src="https://github.com/user-attachments/assets/1c682407-2455-4403-98d3-d7502345b8d6" />
+
+
 有观点认为，拉丁修辞学者对可推导出有效论证的论题进行了过度细分与拆解，致使其在实际论证中难以应用。但从另一角度看，他们详尽的梳理至少证明了三点：（1）任何文化中，思想展开的方式都是有限的，掌握越多此类方式的人，越能从容地就任何议题立论；（2）修辞情境会缩小建构有效论证的可选范围；（3）修辞创作本身包含一个发现、立论的过程，而修辞效果的衡量标准之一，便是修辞者是否懂得发掘实践层面的可行方案。
 
 笔者并非意在表明罗马学者对修辞立论过程的阐释始终清晰，亦非认为他们对论题立论的理论与实践的梳理、呈现与教学方式臻于完美。但他们的确证明了：修辞立论应当体系化。尽管“论题”一词在修辞理论中历来含义模糊，但“高阶修辞发现需要体系化”这一理念却清晰且实用。与之相近的**争议点**概念亦是如此。奥托·迪特尔对争议点理论的发展做出了如下精辟总结：
@@ -69,7 +72,7 @@ The topics received their fullest and most influential treatment in Cicero’s *
 The same may be said of the *Rhetorica ad Herennium*. It traverses the ground covered in *De inventione* and more. The book is concerned with all five arts comprising the broad art of rhetoric—invention, arrangement, style, delivery, and memory. It is a more or less complete prescriptive manual of the rhetor’s art. The definitive manner in which *Ad Herennium* treats topics may be seen from the schematics for deliberative and epideictic addresses (Fig. 1).⁸⁰
 
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/f6501297-ea12-4f6b-8ba0-c498cb84a58c" />
+<img width="664" height="642" alt="image" src="https://github.com/user-attachments/assets/1c682407-2455-4403-98d3-d7502345b8d6" />
 
 
 It could be argued that the Latin rhetoricians multiplied and divided the topics that could suggest useful lines of argument to such a degree as to render their use in practical argument unduly difficult. On the other hand, what their exhaustive canvasses show are at least (1) that any culture has a finite number of ways of developing ideas, and the person who knows most of these ways is the better equipped to discover what to say about any subject; (2) rhetorical situations narrow the number of options for creating relevant argumentation; and (3) there is a discovery, an inventional process in the making of rhetoric, and a measure of rhetorical effectiveness is whether or not a rhetor knows how to discover his or her practical options.
