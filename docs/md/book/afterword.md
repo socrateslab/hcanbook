@@ -21,6 +21,7 @@
 
 撰写以上内容，是希望能避免不必要的误解。我并不指望它能彻底消除误解，毕竟人类传播本就充斥着人类与生俱来的种种局限；也不期待它能消弭分歧，这本就不是其目的所在。它的意义在于，让相关讨论聚焦于真正的观点分歧，而非因作者与读者的认知局限所产生的无谓争议。
 
+沃尔特・R. 费希尔
 
 ## Afterword
 
@@ -46,3 +47,6 @@ In short, the narrative paradigm is a philosophical statement that is meant to o
 Several books have appeared since Human Communication as Narration went to press, which enrich the conversation about narration as paradigm. I recommend each of them: Richard Harvey Brown, Society as Text: Essays on Rhetoric, Reason, and Reality (Chicago: University of Chicago Press, 1987); Jerome Bruner, Actual Minds, Possible Worlds (Cambridge: Harvard University Press, 1986); David Carr, Time, Narrative, and History (Bloomington: Indiana University Press, 1986); Wallace Martin, Recent Theories of Narrative (Ithaca: Cornell University Press, 1986); and the third Volume of Paul Ricouer’s Time and Narrative (Chicago: University of Chicago Press, 1988). I should also mention three other books that significantly bear on the theme of narration and human com munication: M. M. Bakhtin, The Dialogic Imagination, trans. Caryl Emerson and Michael Holquist (Austin: University of Texas Press, 1981); Frederic Jameson, The Political Unconscious: Narrative as a Socially Symbolic Act (Ithaca: Cornell University Press, 1981); and, Jean-Francois Lyotard, The Post-Modern Condition: A Report on Knowledge, trans. Geoff Bennington and Brian Massumi (Minneapolis: University of Minnesota Press, 1984).
 
 The foregoing is offered with the hope that it may forestall unnecessary misunderstanding. There is no anticipation that it will do this completely, as human communication is too imbued with the shortcomings that people are heir to for that. Nor is there any expectation that it will eliminate disagreements. It is not meant to do this either. It is meant to keep the conversation focused on genuine disagreements rather than those caused by the fragility of the writer and readers.
+
+
+W.R.F.
