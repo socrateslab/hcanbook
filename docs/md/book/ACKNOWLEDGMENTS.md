@@ -1,3 +1,19 @@
+# 致谢
+本书撰写过程中采用了本人此前已发表研究中的部分内容。谨对刊载或将刊载相关材料的出版物致谢如下：
+第一章初稿曾以 “The Narrative Paradigm: In the Beginning,” 为题发表于 Journal of Communication, vol. 35, no. 4, 1985, pp. 74–89。
+第二章缩写版将以 “Technical Logic, Rhetorical Logic, and Narrative Rationality.” 为题发表于 Argumentation, 1 (1987), 3–21。Copyright © 1987 by D. Reidel Publisher。
+第三章基于 “Narration as a Human Communication Paradigm: The Case of Public Moral Argument,” 一文改写，原文刊载于 Communication Monographs, 51 (1984), 1–22。
+第四章内容源自 “The Narrative Paradigm: An Elaboration,” 一文的前半部分，该文刊载于 Communication Monographs, 52 (1985), 347–367。
+第五章整合两篇论文：“Toward a Logic of Good Reasons,” The Quarterly Journal of Speech, 64 (1978), 376–384；以及 “Rationality and the Logic of Good Reasons,” 一文，刊载于 Philosophy and Rhetoric, Volume 13, Number 2, Spring 1980, pp. 121–130。Philosophy and Rhetoric 由宾夕法尼亚州立大学出版社出版。
+第六章为 “Judging the Quality of Audiences and Narrative Rationality,” 一文的修订版，收录于 J. L. Golden and J. J. Pilotta (eds.), Practical Reasoning in Human Affairs, D. Reidel Publisher, 1986, pp. 85–103。
+第七章采用 “Romantic Democracy, Ronald Reagan, and Presidential Heroes,” 一文内容，原文刊载于 Western Journal of Speech Communication, 46 (1982), 299–310。
+第八章系与理查德・A・菲洛伊合著文章 “Argument in Drama and Literature: An Exploration,” 的改写版，原文收录于 R. Cox and C. Willard 主编 Argumentation Theory and Research, Southern Illinois University Press 出版。Copyright © 1982, J. Robert Cox and Charles Arthur Willard。经出版社许可重刊。
+第九章为 “The Narrative Paradigm: An Elaboration,” 一文后半部分的修订版，原文刊载于 Communication Monographs, 52 (1985), 347–367。
+第二章图 1 和图 2 引自 Cicero, Ad C. Herennium, trans. Harry Caplan, Harvard University Press, 1954，经许可重刊。
+伊索克拉底著作选段引自 Isocrates, trans. George Norlin，经哈佛大学出版社许可重刊。
+斯蒂芬・图尔敏著作选段引自 Stephen Toulmin, The Uses of Argument, © Cambridge University Press 1958；经剑桥大学出版社许可重刊。
+
+
 **ACKNOWLEDGMENTS**
 
 Materials from several of my previously published works have been used in the writing of this book. I am pleased to credit each of the publications in which these materials have appeared or will appear:
